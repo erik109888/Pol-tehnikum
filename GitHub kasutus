@@ -1,0 +1,18 @@
+GitHub põhineb Giti hajutatud versioonihaldusel ja lähtekoodihaldusel, kuid lisab neile veel võimalusi, näiteks võimalust kontrollida, kes pääseb koodile juurde, 
+koodi veakontrolli, tarkvara funktsioonide taotlust ning igale projektile oma vikit.
+GitHubi peamine kasutus on koodi majutus ja versioonihaldus.
+Lisaks sellele võimaldab GitHub ka:
+
+koodi dokumentatsiooni README-failide kaudu
+vigadest teatamist (kaasa arvatud soovitusi koodi parandamiseks ja uuteks funktsioonideks)
+projektidele viki loomist
+võimalust ise koodi parandada ning pakkuda selle kasutamist koodivaramu haldaja(te)le ("pull request")
+muudatuste ajalugu
+graafikuid ja muud statistikat iga projekti kohta
+emojide kasutust
+GitHub Pages: avalikes varamutes on võimalik hoiustada väikseid veebilehti, mida üldiselt kasutatakse blogideks või koodi dokumentatsiooniks
+3D mudelite vaatamist otse brauseris
+Adobe Photoshopi PSD-failide vaatamist brauseris ning nende ajaloo võrdlemist
+PDF-failide vaatamist brauseris
+tüüpiliste turvariskide automaatselt avastamist koodist
+GitHub pakub ka "pastebin" tüüpi teenust Gist, mida saab kasutada koodilõikude majutuseks. See erineb GitHubi teenusest, mis on mõeldud suuremate koodiprojektide jaoks.
